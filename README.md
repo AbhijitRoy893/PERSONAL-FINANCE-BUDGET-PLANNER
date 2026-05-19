@@ -143,7 +143,7 @@ This project was created for academic, learning, and portfolio purposes to demon
 
 # Author
 
-**Abhijit Roy**
+**Abhijit Roy** and **AAKASH NATH**
 
 ---
 
